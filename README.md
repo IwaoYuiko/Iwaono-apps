@@ -6,4 +6,4 @@
 [お問い合わせはこちら（Googleフォーム）](https://forms.gle/LoJzC52GnPKXQAUa7)
 
 ## Privacy policy
-[プライバシーポリシーはこちら](https://iwaoyuiko.github.io/Iwao-apps/privacy-policy.html)
+[プライバシーポリシーはこちら](https://iwaoyuiko.github.io/Iwaono-apps/privacy-policy.html)
